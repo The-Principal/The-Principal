@@ -1,5 +1,5 @@
-- 👋 Hi, I’m yet another Principal Engineer at yet another top 5 tech company, bucking for that elusive Distinguished Engineer title.
-- 👀 I’m interested in AWS and Serverless technology.
-- 🌱 I’m currently learning Go on Lambda.
-- 💞️ I’m looking to collaborate on everything, especially if you're a frontend engineer.
-
+- 👋 Hi, I’m yet another Principal Engineer at yet another top 5 tech company, bucking for that elusive Distinguished Engineer title. Deep in the dank dark of Silicon Valley. Out of Minsk by way of Moscow. I'm fluent in Russian, Ukrainian, Polish, Czech, English. I'm pretty good in German and Dutch. I can get by in Spanish.
+- 🤫 This is my incognito account to try experimental stuff without prying eyes. In my public account, I average over 2000 commits per year.
+- 👀 I’m interested in AWS, AI/Machine Learning, and Serverless technology, especially using Go and Python. 
+- 🌱 I’m currently learning Go on Lambda, Spanish, Japanese, and baking.
+- 💞️ I’m looking to collaborate on everything, especially if you're a front-end engineer. Vue? React? Angular? I have no clue.
